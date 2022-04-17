@@ -1,0 +1,15 @@
+body {
+    width: 5000px;
+    height: 5000px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GS1TJXg3SBKTW0dKiEpyZ1rV_ogdQigv5w&usqp=CAU);
+    background-size: 500px;
+}
+.eggs {
+    background-color: lightblue;
+    width: 200px;
+    height: 30px;
+    position: fixed;
+    bottom: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+}
